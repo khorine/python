@@ -1,0 +1,4 @@
+Accessing the training: To follow along with this training, follow the following steps
+Access DataCamp Workspace
+Create a new Workspace
+Paste the link below into the
